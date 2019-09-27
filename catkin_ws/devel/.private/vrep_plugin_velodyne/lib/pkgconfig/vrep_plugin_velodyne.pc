@@ -1,0 +1,8 @@
+prefix=/home/rosichallenge/catkin_ws/devel/.private/vrep_plugin_velodyne
+
+Name: vrep_plugin_velodyne
+Description: Description of vrep_plugin_velodyne
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/rosichallenge/catkin_ws/devel/.private/vrep_plugin_velodyne/lib 
+Requires: roscpp rosconsole std_msgs roscpp rosconsole std_msgs

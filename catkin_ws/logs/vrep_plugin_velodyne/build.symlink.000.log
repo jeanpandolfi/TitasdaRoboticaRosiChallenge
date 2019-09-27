@@ -1,0 +1,4 @@
+Symlinking /home/rosichallenge/catkin_ws/devel/lib/libv_repExtRosVelodyne.so
+Symlinking /home/rosichallenge/catkin_ws/devel/lib/pkgconfig/vrep_plugin_velodyne.pc
+Symlinking /home/rosichallenge/catkin_ws/devel/share/vrep_plugin_velodyne/cmake/vrep_plugin_velodyneConfig-version.cmake
+Symlinking /home/rosichallenge/catkin_ws/devel/share/vrep_plugin_velodyne/cmake/vrep_plugin_velodyneConfig.cmake

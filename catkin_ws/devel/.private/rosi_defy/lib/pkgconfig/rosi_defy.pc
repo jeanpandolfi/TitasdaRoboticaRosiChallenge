@@ -1,0 +1,8 @@
+prefix=/home/rosichallenge/catkin_ws/devel/.private/rosi_defy
+
+Name: rosi_defy
+Description: Description of rosi_defy
+Version: 0.0.0
+Cflags: -I/home/rosichallenge/catkin_ws/devel/.private/rosi_defy/include
+Libs: -L/home/rosichallenge/catkin_ws/devel/.private/rosi_defy/lib 
+Requires: message_runtime std_msgs

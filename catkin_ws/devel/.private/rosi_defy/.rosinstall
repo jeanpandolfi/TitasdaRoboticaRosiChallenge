@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rosichallenge/catkin_ws/devel/.private/rosi_defy/setup.sh

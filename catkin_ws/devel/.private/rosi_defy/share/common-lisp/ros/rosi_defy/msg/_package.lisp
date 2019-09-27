@@ -1,0 +1,13 @@
+(cl:defpackage rosi_defy-msg
+  (:use )
+  (:export
+   "<HOKUYOREADING>"
+   "HOKUYOREADING"
+   "<MANIPULATORJOINTS>"
+   "MANIPULATORJOINTS"
+   "<ROSIMOVEMENT>"
+   "ROSIMOVEMENT"
+   "<ROSIMOVEMENTARRAY>"
+   "ROSIMOVEMENTARRAY"
+  ))
+

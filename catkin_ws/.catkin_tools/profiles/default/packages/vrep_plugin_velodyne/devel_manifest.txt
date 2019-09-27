@@ -1,0 +1,6 @@
+vrep_plugin_velodyne
+/home/rosichallenge/catkin_ws/devel/.private/vrep_plugin_velodyne/cmake.lock /home/rosichallenge/catkin_ws/devel/./cmake.lock
+/home/rosichallenge/catkin_ws/devel/.private/vrep_plugin_velodyne/lib/libv_repExtRosVelodyne.so /home/rosichallenge/catkin_ws/devel/lib/libv_repExtRosVelodyne.so
+/home/rosichallenge/catkin_ws/devel/.private/vrep_plugin_velodyne/lib/pkgconfig/vrep_plugin_velodyne.pc /home/rosichallenge/catkin_ws/devel/lib/pkgconfig/vrep_plugin_velodyne.pc
+/home/rosichallenge/catkin_ws/devel/.private/vrep_plugin_velodyne/share/vrep_plugin_velodyne/cmake/vrep_plugin_velodyneConfig-version.cmake /home/rosichallenge/catkin_ws/devel/share/vrep_plugin_velodyne/cmake/vrep_plugin_velodyneConfig-version.cmake
+/home/rosichallenge/catkin_ws/devel/.private/vrep_plugin_velodyne/share/vrep_plugin_velodyne/cmake/vrep_plugin_velodyneConfig.cmake /home/rosichallenge/catkin_ws/devel/share/vrep_plugin_velodyne/cmake/vrep_plugin_velodyneConfig.cmake

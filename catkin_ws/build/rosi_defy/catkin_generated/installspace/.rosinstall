@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rosichallenge/catkin_ws/install/setup.sh

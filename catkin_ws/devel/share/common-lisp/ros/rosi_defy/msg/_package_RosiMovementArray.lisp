@@ -1,0 +1,1 @@
+/home/rosichallenge/catkin_ws/devel/.private/rosi_defy/share/common-lisp/ros/rosi_defy/msg/_package_RosiMovementArray.lisp
