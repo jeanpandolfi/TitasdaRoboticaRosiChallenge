@@ -1,2 +1,0 @@
-- setup-file:
-    local-name: /home/rosichallenge/catkin_ws/devel/.private/vrep_plugin_velodyne/setup.sh
