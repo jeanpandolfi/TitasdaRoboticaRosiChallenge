@@ -1,0 +1,6 @@
+<launch>
+
+	<rosparam command="load" file="$(find titans)/config/simulation_parameters.yaml" />
+
+
+</launch>

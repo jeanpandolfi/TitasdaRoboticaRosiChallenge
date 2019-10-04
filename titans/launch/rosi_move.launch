@@ -1,0 +1,11 @@
+<launch>
+
+	<!-- running the joystick node -->
+	
+
+	<!-- running the rosi joystick example node -->
+	<node name="rosi_move" pkg="titans" type="rosi_move.py" respawn="true"/>
+
+	<rosparam command="load" file="$(find titans)/config/simulation_parameters.yaml" />
+
+</launch>
